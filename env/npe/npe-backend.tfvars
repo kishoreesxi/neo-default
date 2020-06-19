@@ -1,0 +1,4 @@
+#Backend details
+
+bucket = ""
+prefix = ""
